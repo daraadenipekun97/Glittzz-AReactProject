@@ -1,3 +1,7 @@
 body{
     font-family: "Nunito";
 }
+a{
+    text-decoration: none;
+    color: black;
+}
