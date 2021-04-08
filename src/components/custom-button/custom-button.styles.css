@@ -9,7 +9,7 @@
     background-color: black;
     color: white;
     text-transform: uppercase;
-    font-family: 'Open Sans Condensed';
+    font-family: 'Nunito';
     font-weight: bolder;
    border-radius: 20px;
     cursor: pointer;
@@ -22,4 +22,17 @@
       color: black;
       border: 1px solid black;
     }
+    .google-sign-in{
+      background-color: #4285f4;
+      color:white;
+      font-size: small;
+      
+    }
+    .google-sign-in:hover{
+      background-color: #0965f8;
+     border:none;
+      color:white;
+    }
+
+
  
