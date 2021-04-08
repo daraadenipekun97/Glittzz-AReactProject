@@ -1,9 +1,11 @@
 .header {
-    height: 70px;
+    height: 100px;
     width: 100%;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 25px;
+    /* margin-bottom: 25px; */
+    box-sizing: border-box;
+    box-shadow: 5px 5px 8px #888888;
 }
     .logo-container {
       height: 100%;
